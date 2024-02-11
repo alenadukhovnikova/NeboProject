@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AllTests Suite">
+    <test name="AllTests">
+        <classes>
+            <class name="BasketPageTest"/>
+            <class name="LoginPageTest"/>
+            <class name="PersonalAccountPageTest"/>
+        </classes>
+    </test>
+</suite>
